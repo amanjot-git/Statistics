@@ -1,5 +1,3 @@
-# Statistics
-
 # Project Overview   
 In this project, we will be performing exploratory data analysis on the dataset for the English Premier League season to find insights about player and team statistics.
 
