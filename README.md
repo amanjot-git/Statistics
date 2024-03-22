@@ -1,9 +1,7 @@
 # Statistics
-![alt text](https://github.com/osamabg1999/epl_2021_2022/blob/main/Premier_League-Logo.wine.png?raw=true)
+
 # Project Overview   
 In this project, we will be performing exploratory data analysis on the dataset for the English Premier League season to find insights about player and team statistics.
-
-![alt text](https://github.com/osamabg1999/epl_2021_2022/blob/main/winner.jpg?raw=true)
 
 **Project Steps**
 - Import relevant libraries
@@ -28,4 +26,4 @@ The following were used in this project:
   - seaborn
 
 ## Data
-The dataset for the 2021/22 EPL season used in this project was downloaded from kaggle.com
+The dataset for the EPL season used in this project was downloaded from kaggle.com
